@@ -1,0 +1,17 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "blog",  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "keywords": [],
+  "author": "lcy <563795085@qq.com>",
+  "license": "ISC",
+  "repository": "git@github.com:lichaoyu11/blog.git",
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.31",
+    "vue": "^3.3.11"
+  }
+}
